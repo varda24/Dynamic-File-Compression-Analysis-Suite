@@ -127,8 +127,6 @@ This project aims to:
 
 ---
 
-# 🏗️ System Architecture
-
 # 🏗 Modern System Architecture
 
 ```text
