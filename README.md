@@ -45,19 +45,26 @@ This project aims to:
 
 # ✨ Features
 
-## Compression Features
+## User Experience Features
 
-✅ Huffman Compression
+✅ Modern Streamlit Dashboard
 
-✅ Run Length Encoding (RLE)
+✅ Compression Lab
 
-✅ File Compression
+✅ Analytics Center
 
-✅ File Decompression
+✅ Benchmark Arena
 
-✅ Multi-file Compression
+✅ Visualization Studio
+
+✅ Report Hub
+
+✅ Dark Professional UI
+
+✅ Interactive Charts
 
 ---
+
 
 ## Analysis Features
 
@@ -122,38 +129,28 @@ This project aims to:
 
 # 🏗️ System Architecture
 
+# 🏗 Modern System Architecture
+
 ```text
-Input File
-     │
-     ▼
-Read File Content
-     │
-     ▼
-Frequency Analysis
-     │
-     ▼
-Build Min Heap
-     │
-     ▼
-Construct Huffman Tree
-     │
-     ▼
-Generate Huffman Codes
-     │
-     ▼
-Compress File
-     │
-     ▼
-Store Compressed Data
-     │
-     ▼
-Decompress File
-     │
-     ▼
-Verify Integrity
-     │
-     ▼
-Generate Reports & Visualizations
+User
+ │
+ ▼
+Streamlit Dashboard
+ │
+ ├── Compression Lab
+ │      ├── Huffman Coding
+ │      └── RLE
+ │
+ ├── Analytics Center
+ │
+ ├── Benchmark Arena
+ │
+ ├── Visualization Studio
+ │
+ └── Report Hub
+         │
+         ▼
+      PDF / CSV / TXT
 ```
 
 ---
