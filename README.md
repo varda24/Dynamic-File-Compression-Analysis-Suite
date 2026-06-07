@@ -9,9 +9,8 @@
 
 🌐 Live Demo
 
-Try the application here:
+Try the application here: https://dynamic-file-compression-analysis-suite-edd6arbdhwcn7f4aeup2w4.streamlit.app/
 
-https://dynamic-file-compression-analysis-suite-edd6arbdhwcn7f4aeup2w4.streamlit.app/
 ---
 
 ## 📌 Project Overview
