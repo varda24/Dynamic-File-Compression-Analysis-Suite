@@ -7,6 +7,11 @@
 
 > A production-inspired file compression utility implementing Huffman Coding and Run Length Encoding (RLE) with benchmarking, integrity verification, visualization, reporting, multi-file compression, and performance analytics.
 
+🌐 Live Demo
+
+Try the application here:
+
+https://dynamic-file-compression-analysis-suite-edd6arbdhwcn7f4aeup2w4.streamlit.app/
 ---
 
 ## 📌 Project Overview
