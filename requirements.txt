@@ -1,5 +1,6 @@
+streamlit
 matplotlib
 networkx
 graphviz
-psutil
 reportlab
+psutil
